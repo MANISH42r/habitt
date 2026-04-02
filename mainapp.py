@@ -625,7 +625,7 @@ def main():
                 Track your habits daily and boost consistency 🚀</p>
             """, unsafe_allow_html=True)
             st.link_button("Open My Habit Tracker App 🔗",
-                           "https://your-app2-link.streamlit.app")
+                           "https://habit-tracker-app1.streamlit.app/")
 
     # ══════════════════════════════════════════
     # TAB 2 — SHAP
